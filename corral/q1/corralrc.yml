@@ -1,0 +1,6 @@
+splitSize: 209715200
+mapBinSize: 524288000
+reduceBinSize: 367001600
+maxConcurrency: 60
+lambdaMemory: 1000
+verbose: false
