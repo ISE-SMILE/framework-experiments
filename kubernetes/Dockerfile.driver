@@ -1,0 +1,3 @@
+from smileproject/spark-driver
+
+copy target/Spark-TPC-1.0-SNAPSHOT.jar /opt/spark/jars/Spark-TPC-1.0-SNAPSHOT.jar
